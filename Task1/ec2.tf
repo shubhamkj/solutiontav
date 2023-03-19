@@ -55,3 +55,7 @@ resource "aws_instance" "minikube" {
 		Terraform = "true"
 	}
 }
+	
+/*resource "aws_kms_key" "kms_key" {
+
+}*/
