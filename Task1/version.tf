@@ -13,3 +13,5 @@ terraform {
 	}
   }
 }
+
+/*New Code for FortiOS provider plugin download*/
