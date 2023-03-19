@@ -5,3 +5,7 @@ variable "access_key" {
 variable "secret_key" {
   default = ""
 }
+
+variable "New_Key" {
+  default = "Some_key"
+}
